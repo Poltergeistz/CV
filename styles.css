@@ -1,0 +1,91 @@
+/* ===============================
+   Colour Palette:
+   ---------------
+
+   Brown : #996633
+   Bleu : #b3ccff
+   Gray antracite :  #2e2e1f
+   Beige : #ffcc66
+
+   Font
+   --------
+   font-family: "Open Sans"
+   
+   =============================== */
+
+/* General */
+
+body {
+    background-color: #ffcc66;
+    background-image: url("../image/bg-tile-pattern.gif");
+}
+
+.container
+
+/* Typography */
+
+h1
+{
+    font-family: "Open Sans";
+    font-size: 18px;
+    color: #b3ccff;
+
+}
+
+h1 em {
+    color: #2e2e1f;
+}
+
+p.Citation{
+    font-family: "Open Sans";
+}
+
+hr {
+    background-image: url("../image/divider.png");
+}
+
+/* Header */
+
+/* Hero */
+
+{
+    width: 200px;
+    height: 600px;
+}
+
+
+/* Citation */
+
+Titrecitation {
+
+}
+
+#Citation {
+    font-family: "Open Sans";
+    color: #2e2e1f;
+    text-align: justify;
+}
+
+/* Anecdote */
+
+#Anecdote {
+    font-family: "Open Sans";
+    color: #2e2e1f;
+    text-align: justify;
+}
+
+/* Experience */
+
+#Experience {
+    color: #ffcc66;
+}
+
+/* Formation */
+
+/* Compétences */
+
+/* Centres d'interet */
+
+
+/* Footer */
+
